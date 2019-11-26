@@ -5,5 +5,4 @@ try
 
 使用ssh的方式拉取和推送
 
-again
-
+ssh方式跟https方式的区别在于安全性
